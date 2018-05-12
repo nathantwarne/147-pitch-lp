@@ -1,0 +1,561 @@
+{
+  "settings": {
+    "name": "Lab-147-Pitch-01",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "unicore",
+      "title": "Unicore",
+      "styling": {
+        "primaryColor": "#29d9c2",
+        "successColor": "#7ac673",
+        "infoColor": "#27aae0",
+        "warningColor": "#faaf40",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "textFont": "Raleway",
+        "isSquareButtons": false
+      },
+      "additionalSetColors": [
+        "#ffffff",
+        "#000000",
+        "#1f4050"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "4.7.2",
+    "uniqCompNum": 22,
+    "versionPublish": "4.7.2",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Lab 147",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/14.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.25,
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "icon1": "fa-database",
+            "icon2": "fa-lightbulb-o",
+            "icon3": "fa-money",
+            "icon4": "fa-clock-o",
+            "showTitles": false
+          },
+          "title": "Read Real Japanese<br>Right Now",
+          "title1": "Zero Setup",
+          "title2": "",
+          "title3": "Target Buyers",
+          "title4": "Reach Top",
+          "text": "Learn kanji the easy way...<br>&nbsp;<br>WITHOUT dictionaries<br>WITHOUT generic flashcards<br>WITHOUT irrelevant textbooks<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"mailto:paul.gaumer@lewagon.org?subject=Dude! Nathan's project is #1! I'm voting for his :D\" class=\"btn mbr-title-font btn-lg btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>&nbsp; vote now&nbsp;</a> ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header7",
+          "_anchor": "header7-1",
+          "_styles": {
+            "P": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showButtons": false,
+            "showMedia": false,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/japan-2808701-1920-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.6"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "img-responsive pull-left",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2.png"
+            }
+          },
+          "title": "Copy. Paste. Read.<br><br>You give us the text, we instantly give you English annotations, flashcard decks, wordbanks, and more.<br><br>Here's how it works...",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header19",
+          "_anchor": "header19-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/japan-1771624-1920-1920x1440.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "img-responsive pull-left",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image-014-1312x310.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "You paste your Japanese text into the box...",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header19",
+          "_anchor": "header19-6",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showButtons": false,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/image-013-1083x313.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "img-responsive pull-left",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/image-013-1083x313.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title": "And you get furigana PLUS English definitions ... <br><br>Enough to start reading Japanese RIGHT AWAY.",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header19",
+          "_anchor": "header19-7",
+          "_styles": {
+            "H3": {
+              "color": "#8c230e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": true,
+            "showButtons": false,
+            "bgImageRadio": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3f51b5",
+            "overlayOpacity": "0.8"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "pull-left",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2.png"
+            }
+          },
+          "title": "But that's just the start...",
+          "text": "Premium members can also:<br><br>o Get up to 1,000 PDFs per month<br>o &nbsp;Store up to 1,000 texts in their dashboard<br>o &nbsp;Build and organize up to 10,000 flashcard decks<br>o &nbsp;Store unlimited word lists<br>o &nbsp;Use our tools to analyze word frequency<br>o &nbsp;Track study history<br>o &nbsp;And much, much more...",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Purchase Now <i class=\"fa fa-shopping-cart\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header18",
+          "_anchor": "header18-5"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showMedia": false,
+            "showForm": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#1f4050",
+            "overlayOpacity": "0.4"
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title1": "An ocean of possibility awaits...",
+          "text": "Contributors, stakeholders, &amp; investors will see massive ROI, unparalleled potential, and limitless opportunity for growth. Amazon and Google will be pooping their pants when they see what you can do...",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\">SUBSCRIBE</a>",
+          "form": {
+            "title": "SUBSCRIBE",
+            "action": "nathan@nathantwarne.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Address here"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-a",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showMedia": true,
+            "bgImageRadio": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1350x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#1f4050",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/4.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Why vote for this app?",
+          "text": "<p><br></p><br><ul><li><i class=\"icon-check2 mbr-primary-color\"></i>Get on board with an awesome app that has real-world growth potential ... and profit potential</li><li><i class=\"icon-check2 mbr-primary-color\"></i>Create a tool that offers great benefits to its users</li><li><i class=\"icon-check2 mbr-primary-color\"></i>Take your skills to the next level</li></ul>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"mailto:paul.gaumer@lewagon.org?subject=Dude! Nathan's project is #1! I'm voting for his :D\" target=\"_blank\">vote now</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-b",
+          "_styles": {
+            "UL": {
+              "font-size": "24px"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.05
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive center-block",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/9.png"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "What about the features &amp; future of this fine app?<br>",
+          "text": "<br>Let's look under the hood...",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Know more unicore<i class=\"icon-location2\"></i></a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header15",
+          "_anchor": "header15-d",
+          "_styles": {
+            "P": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showText": true,
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1622x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#1f4050",
+            "overlayOpacity": "0.7",
+            "showIcons": true,
+            "iconsColor": "#8fafc3",
+            "icon1": "fa-database",
+            "icon2": "fa-paint-brush",
+            "icon3": "fa-book",
+            "icon4": "fa-bolt",
+            "icon5": "fa-arrows-alt",
+            "icon6": "fa-globe"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/13.png"
+            }
+          },
+          "title1": "EDICT",
+          "title2": "Pretty Design with CSS/SCSS",
+          "title3": "We Know How to Do It Already",
+          "title4": "No Need for Investors",
+          "title5": "Multiple Routes for Expansion",
+          "title6": "Japanese Is Just the Start...",
+          "text1": "Publicly available J-E dictionary file",
+          "text2": "No fancy frontend technology necessary...though it couldn't hurt",
+          "text3": "Backend &amp; frontend techniques have all been covered in the bootcamp",
+          "text4": "If we can turn it into a fremium SaaS product, there's no need for outside investment",
+          "text5": "Plenty of ways to extend functionality or build moats around the app.&nbsp;",
+          "text6": "Obviously if this can be done for Japanese, it can be done for other languages.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header22",
+          "_anchor": "header22-c",
+          "_styles": {
+            "i": {
+              "color": "#8fafc3 !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showForm": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/7.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.2
+          },
+          "title": "APPLY NOW!",
+          "title1": "Ready to get started?<br><br>",
+          "text": "Vote yes today!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\">GET FREE TRIAL</a>",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-success\" href=\"mailto:paul.gaumer@lewagon.org?subject=Dude! Nathan's project is #1! I'm voting for his :D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;VOTE NOW</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nathan@nathantwarne.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "First Name",
+                "customTitle": "First Name"
+              },
+              "lastName": {
+                "visible": true,
+                "title": "Last Name",
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email Address",
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone No.",
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-l",
+          "_styles": {
+            ".btn": {
+              "font-size": "24px"
+            },
+            "H2": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
